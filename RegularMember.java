@@ -25,7 +25,7 @@ public class RegularMember extends GymMember
     public boolean getIsEligibleForUpgrade()
     {
         return isEligibleForUpgrade;
-    }
+    }             
     
     public String getRemovalReason() 
     {
